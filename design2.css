@@ -1,0 +1,18 @@
+body{
+background-image: url('barcelonalogo.jpg'); background-repeat: no-repeat; background-size:cover;
+ 
+}
+ 
+div{
+ color: red;
+ font-weight: bold;
+ font-family: "Courier New", Courier, monospace;
+}
+ 
+TEXTAREA, input{
+ background-color:yellow;
+ font-family:"Courier New", Courier, monospace;
+ color: purple;
+ border-color: aqua;
+ border-width:6px;
+ 
